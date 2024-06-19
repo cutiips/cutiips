@@ -1,3 +1,6 @@
+[![Project Vue.js](https://img.shields.io/badge/Project%201-HEG%20Web-blue)](https://heg-web.github.io/projet23-jonludo/#/)
+[![Project Django REST](https://img.shields.io/badge/Project%202-Air%20AJTD-green)](https://13-air-ajtd.rxq.ch/#/)
+
 ## Hello there 👋
 
 <!--
@@ -15,10 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning business information technology
-
-[![Project Vue.js](https://img.shields.io/badge/Project%201-HEG%20Web-blue)](https://heg-web.github.io/projet23-jonludo/#/)
-[![Project Django REST](https://img.shields.io/badge/Project%202-Air%20AJTD-green)](https://13-air-ajtd.rxq.ch/#/)
-
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=cutiips&layout=compact&theme=github_dark)
 ![Stats theme cutiips](https://github-readme-stats.vercel.app/api?username=cutiips&show_icons=true&theme=github_dark)
