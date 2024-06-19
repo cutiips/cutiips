@@ -1,5 +1,5 @@
-[![Project Vue.js](https://img.shields.io/badge/Project%201-HEG%20Web-blue)](https://heg-web.github.io/projet23-jonludo/#/)
-[![Project Django REST](https://img.shields.io/badge/Project%202-Air%20AJTD-green)](https://13-air-ajtd.rxq.ch/#/)
+[![Project Vue.js](https://img.shields.io/badge/Project-Vue.js-blue)](https://heg-web.github.io/projet23-jonludo/#/)
+[![Project Django REST](https://img.shields.io/badge/Project-Django%20REST-green)](https://13-air-ajtd.rxq.ch/#/)
 
 ## Hello there 👋
 
