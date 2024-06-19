@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **cutiips/cutiips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning business information technology
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=cutiips&layout=compact&theme=default)
+![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=cutiips&show_icons=true&theme=default&count_private=true)
+![Stats cutiips](https://github-readme-stats.vercel.app/api?username=cutiips&show_icons=true)
+![Stats theme cutiips](https://github-readme-stats.vercel.app/api?username=cutiips&show_icons=true&theme=github_dark)
