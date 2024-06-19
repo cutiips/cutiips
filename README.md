@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning business information technology
 
-| ![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=cutiips&layout=compact&theme=github_dark) | ![Stats theme cutiips](https://github-readme-stats.vercel.app/api?username=cutiips&show_icons=true&theme=github_dark) |
-|:---:|:---:|
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutiips&layout=compact&theme=github_dark" alt="Top Langages" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cutiips&show_icons=true&theme=github_dark" alt="Stats theme cutiips" style="width: 45%;" />
+</div>
