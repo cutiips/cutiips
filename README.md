@@ -1,7 +1,15 @@
+ 
+```ASCII
+ _   _          _   _             _     _                             
+| | | |   ___  | | | |   ___     | |_  | |__     ___   _ __    ___    
+| |_| |  / _ \ | | | |  / _ \    | __| | '_ \   / _ \ | '__|  / _ \   
+|  _  | |  __/ | | | | | (_) |   | |_  | | | | |  __/ | |    |  __/   
+|_| |_|  \___| |_| |_|  \___/     \__| |_| |_|  \___| |_|     \___|   
 
-# Hello there 👋
+```
 
-<div align="center">
+
+<div align="center" style="background-color: #151b23;">
 
 [![Vue.js Project](https://img.shields.io/badge/Vue.js%20Project-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://heg-web.github.io/projet23-jonludo/#/)
 [![Django REST API Project](https://img.shields.io/badge/Django%20REST%20API-092E20?style=for-the-badge&logo=django&logoColor=white)](https://13-air-ajtd.rxq.ch/#/)
