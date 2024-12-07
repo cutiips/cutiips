@@ -13,6 +13,8 @@
 
 [![Vue.js Project](https://img.shields.io/badge/Vue.js%20Project-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://heg-web.github.io/projet23-jonludo/#/)
 [![Django REST API Project](https://img.shields.io/badge/Django%20REST%20API-092E20?style=for-the-badge&logo=django&logoColor=white)](https://13-air-ajtd.rxq.ch/#/)
+[![Flutter App](https://img.shields.io/badge/Flutter%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://heg-web.github.io/F24-EduGrades/)
+
 
 </div>
 
