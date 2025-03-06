@@ -1,32 +1,52 @@
- 
-```ASCII
- _   _          _   _             _     _                             
-| | | |   ___  | | | |   ___     | |_  | |__     ___   _ __    ___    
-| |_| |  / _ \ | | | |  / _ \    | __| | '_ \   / _ \ | '__|  / _ \   
-|  _  | |  __/ | | | | | (_) |   | |_  | | | | |  __/ | |    |  __/   
-|_| |_|  \___| |_| |_|  \___/     \__| |_| |_|  \___| |_|     \___|   
+# Welcome to my personnal repository
 
-```
+## 🚀 Featured Projects
 
+### 🎓 EduGrades
+A Flutter application designed for efficient school management, centralizing student, teacher, assistant, and parent interactions. It provides real-time attendance tracking, class management, and seamless communication. 
 
-<div align="center" style="background-color: #151b23;">
+**Stack:** Flutter, Dart, Firebase, Firestore, Google Play Console
 
-[![Vue.js Project](https://img.shields.io/badge/Vue.js%20Project-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://heg-web.github.io/projet23-jonludo/#/)
-[![Django REST API Project](https://img.shields.io/badge/Django%20Project-092E20?style=for-the-badge&logo=django&logoColor=white)](https://13-air-ajtd.rxq.ch/#/)
-[![Flutter App](https://img.shields.io/badge/Flutter%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://heg-web.github.io/F24-EduGrades/)
-[![Dashboard App](https://img.shields.io/badge/Dashboard%20App-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://cutiips.github.io/TicketOrTreat/)
+🔗 [EduGrades Repository](https://heg-web.github.io/F24-EduGrades/)
 
+---
 
-</div>
+### 🏒 Vue.js National League
+A modern and dynamic website that provides match schedules, rankings, and statistics for the Swiss National Ice Hockey League. The platform ensures an intuitive user experience with up-to-date content.
 
+**Stack:** Vue.js, API
+
+🔗 [Vue.js Project](https://heg-web.github.io/projet23-jonludo/#/)
+
+---
+
+### 🏠 13-Air-AJTD
+A web application that allows students to book rooms while enabling owners to rent out their spaces. 
+
+**Stack:** Vue.js, Django REST, SQLite
+
+🔗 [Live Demo](https://13-air-ajtd.rxq.ch/#/)
+
+---
+
+### 📊 Dashboard App
+A live dashboard simulating API calls from Petzi, providing real-time insights and data visualization.
+
+**Stack:** Python, Flask, MongoDB
+
+🔗 [Dashboard App](https://cutiips.github.io/TicketOrTreat/)
+
+---
+
+## 📊 GitHub Stats
 <div align="center" style="display: flex; flex-direction: column; gap: 20px;">
 
   <div style="padding: 10px; border: 1px solid #333; border-radius: 10px; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutiips&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Top Langages" width="400px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutiips&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Top Languages" width="400px" />
   </div>
 
   <div style="padding: 10px; border: 1px solid #333; border-radius: 10px; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=cutiips&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Stats GitHub cutiips" width="400px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cutiips&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400px" />
   </div>
 
 </div>
