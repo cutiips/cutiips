@@ -7,16 +7,17 @@ A Flutter application designed for efficient school management, centralizing stu
 
 **Stack:** Flutter, Dart, Firebase, Firestore, Google Play Console
 
-🔗 [EduGrades Repository](https://heg-web.github.io/F24-EduGrades/)
+[![EduGrades Website](https://img.shields.io/badge/Flutter%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://heg-web.github.io/F24-EduGrades/)
 
 ---
 
-### 🏒 Vue.js National League
+### 🏒 Swiss National League
 A modern and dynamic website that provides match schedules, rankings, and statistics for the Swiss National Ice Hockey League. The platform ensures an intuitive user experience with up-to-date content.
 
 **Stack:** Vue.js, API
 
-🔗 [Vue.js Project](https://heg-web.github.io/projet23-jonludo/#/)
+[![Vue.js Project](https://img.shields.io/badge/Vue.js%20Project-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://heg-web.github.io/projet23-jonludo/#/)
+
 
 ---
 
@@ -25,7 +26,7 @@ A web application that allows students to book rooms while enabling owners to re
 
 **Stack:** Vue.js, Django REST, SQLite
 
-🔗 [Live Demo](https://13-air-ajtd.rxq.ch/#/)
+[![Django REST API Project](https://img.shields.io/badge/Django%20REST%20API-092E20?style=for-the-badge&logo=django&logoColor=white)](https://13-air-ajtd.rxq.ch/#/)
 
 ---
 
@@ -34,7 +35,7 @@ A live dashboard simulating API calls from Petzi, providing real-time insights a
 
 **Stack:** Python, Flask, MongoDB
 
-🔗 [Dashboard App](https://cutiips.github.io/TicketOrTreat/)
+[![Dashboard App](https://img.shields.io/badge/Dashboard%20App-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://cutiips.github.io/TicketOrTreat/)
 
 ---
 
@@ -50,5 +51,3 @@ A live dashboard simulating API calls from Petzi, providing real-time insights a
   </div>
 
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=cutiips&label=%20&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
