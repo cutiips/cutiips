@@ -39,6 +39,17 @@ A live dashboard simulating API calls from Petzi, providing real-time insights a
 
 ---
 
+### 🔐 SQL Injection  
+A small project to test SQL Injection vulnerabilities. It includes a test website as a target and a Python script to evaluate various payloads.  
+
+**Stack:** Python, PHP, HTML/CSS/JS  
+
+#### 📌 Repositories:  
+[![Python Scanner](https://img.shields.io/badge/GitHub-Python_Scanner-blue?logo=github)](https://github.com/cutiips/vulnerability-scanner-python.git)  
+[![HTML Target](https://img.shields.io/badge/GitHub-HTML_Scanner-blue?logo=github)](https://github.com/cutiips/vulnerability-scanner-html.git)  
+
+---
+
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; flex-direction: column; gap: 20px;">
 
