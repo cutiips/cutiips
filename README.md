@@ -50,6 +50,17 @@ A small project to test SQL Injection vulnerabilities. It includes a test websit
 
 ---
 
+### 🚢 DockNRoll
+
+A project to test deployment using Docker on a Synology NAS with DuckDNS for domain management. It includes a Flask backend, a static frontend, and an Nginx reverse proxy, orchestrated with Docker Compose.
+
+**Stack:** Python (Flask), HTML/CSS/JS, Docker, Nginx, Docker Compose
+
+#### 📌 Repositories:  
+[![DockNRoll](https://img.shields.io/badge/GitHub-DockNRoll-blue?logo=github)](https://github.com/cutiips/DockNRoll.git)
+
+---
+
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; flex-direction: column; gap: 20px;">
 
