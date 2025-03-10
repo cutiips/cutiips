@@ -56,7 +56,7 @@ A project to test deployment using Docker on a Synology NAS with DuckDNS for dom
 
 **Stack:** Python (Flask), HTML/CSS/JS, Docker, Nginx, Docker Compose
 
-#### 📌 Repositories:  
+#### 📌 Repository:  
 [![DockNRoll](https://img.shields.io/badge/GitHub-DockNRoll-blue?logo=github)](https://github.com/cutiips/DockNRoll.git)
 
 ---
