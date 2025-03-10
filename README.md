@@ -61,6 +61,8 @@ A project to test deployment using Docker on a Synology NAS with DuckDNS for dom
 
 ---
 
+<!--
+
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; flex-direction: column; gap: 20px;">
 
@@ -69,3 +71,5 @@ A project to test deployment using Docker on a Synology NAS with DuckDNS for dom
   </div>
 
 </div>
+
+-->
