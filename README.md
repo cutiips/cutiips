@@ -68,8 +68,4 @@ A project to test deployment using Docker on a Synology NAS with DuckDNS for dom
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutiips&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Top Languages" width="400px" />
   </div>
 
-  <div style="padding: 10px; border: 1px solid #333; border-radius: 10px; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=cutiips&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400px" />
-  </div>
-
 </div>
