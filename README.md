@@ -11,25 +11,6 @@ A Flutter application designed for efficient school management, centralizing stu
 
 ---
 
-### 🏒 Swiss National League
-A modern and dynamic website that provides match schedules, rankings, and statistics for the Swiss National Ice Hockey League. The platform ensures an intuitive user experience with up-to-date content.
-
-**Stack:** Vue.js, API
-
-[![Vue.js Project](https://img.shields.io/badge/Vue.js%20Project-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://heg-web.github.io/projet23-jonludo/#/)
-
-
----
-
-### 🏠 13-Air-AJTD
-A web application that allows students to book rooms while enabling owners to rent out their spaces. 
-
-**Stack:** Vue.js, Django REST, SQLite
-
-[![Django REST API Project](https://img.shields.io/badge/Django%20REST%20API-092E20?style=for-the-badge&logo=django&logoColor=white)](https://13-air-ajtd.rxq.ch/#/)
-
----
-
 ### 📊 Dashboard App
 A live dashboard simulating API calls from Petzi, providing real-time insights and data visualization.
 
@@ -60,6 +41,23 @@ A project to test deployment using Docker on a Synology NAS with DuckDNS for dom
 [![DockNRoll](https://img.shields.io/badge/GitHub-DockNRoll-blue?logo=github)](https://github.com/cutiips/DockNRoll.git)
 
 ---
+
+### 🏒 Swiss National League
+A modern and dynamic website that provides match schedules, rankings, and statistics for the Swiss National Ice Hockey League. The platform ensures an intuitive user experience with up-to-date content.
+
+**Stack:** Vue.js, API
+
+[![Vue.js Project](https://img.shields.io/badge/Vue.js%20Project-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://heg-web.github.io/projet23-jonludo/#/) ![Unavailable](https://img.shields.io/badge/⚠️%20Unavailable%20for%20the%20moment-red?style=for-the-badge)
+
+
+---
+
+### 🏠 13-Air-AJTD
+A web application that allows students to book rooms while enabling owners to rent out their spaces. 
+
+**Stack:** Vue.js, Django REST, SQLite
+
+[![Django REST API Project](https://img.shields.io/badge/Django%20REST%20API-092E20?style=for-the-badge&logo=django&logoColor=white)](https://13-air-ajtd.rxq.ch/#/) ![Unavailable](https://img.shields.io/badge/⚠️%20Unavailable%20for%20the%20moment-red?style=for-the-badge)
 
 <!--
 
