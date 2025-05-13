@@ -1,6 +1,6 @@
 ## 🎉 Welcome to my personnal repository
 
-Here you can find all my website projects. Enjoy! 🚀
+Here you can find all my projects. Enjoy! 🚀
 
 ### 🎓 EduGrades
 A Flutter application designed for efficient school management, centralizing student, teacher, assistant, and parent interactions. It provides real-time attendance tracking, class management, and seamless communication. 
