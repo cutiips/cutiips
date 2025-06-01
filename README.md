@@ -47,7 +47,7 @@ A modern and dynamic website that provides match schedules, rankings, and statis
 
 **Stack:** Vue.js, API
 
-[![Vue.js Project](https://img.shields.io/badge/Vue.js%20Project-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://heg-web.github.io/projet23-jonludo/#/) ![Unavailable](https://img.shields.io/badge/⚠️%20Unavailable%20for%20the%20moment-red?style=for-the-badge)
+[![Vue.js Project](https://img.shields.io/badge/Vue.js%20Project-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://cutiips.github.io/NationalLeague/) 
 
 
 ---
